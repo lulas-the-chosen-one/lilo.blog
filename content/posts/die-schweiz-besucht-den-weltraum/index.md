@@ -4,8 +4,6 @@ date = "2024-04-26"
 draft = false
 pinned = true
 +++
-## **Die Schweiz besucht den Weltraum**
-
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
 {{<lead>}}
