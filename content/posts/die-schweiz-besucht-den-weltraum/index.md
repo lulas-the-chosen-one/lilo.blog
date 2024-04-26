@@ -8,7 +8,7 @@ pinned = true
 
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
-{{</lead>}}
+{{<lead>}}
 
 Die Schweiz als eher kleines Land hat eine wichtige Rolle in der internationalen Weltraumforschung. Mit verschiedenen Messinstrumenten beteiligt sich die Universität Bern öfters an Projekten der NASA oder ESA. Durch diese Projekte wird Neues entdeckt und werden neue Grenzen erforscht.
 
@@ -58,6 +58,7 @@ Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausforder
 Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: *„Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“*
 
 {{<box>}}
+
 ##### Schweizerische Nationalfonds
 
 Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument MARVIS, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
