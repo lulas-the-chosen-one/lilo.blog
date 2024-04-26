@@ -15,7 +15,7 @@ Die Schweiz als eher kleines Land hat eine wichtige Rolle in der internationalen
 An einem warmen Nachmittag im Februar 2024 nach einer ruhigen Busfahrt werden wir freundlich von Linus Stöckli in der Eingangshalle des physikalischen Instituts der Universität Bern begrüsst. Linus Stöckli selbst ist Doktorand und arbeitet seit längerem am Institut. Mit seinen Projekten beteiligt er sich auch an der Raumfahrtforschung. Schon nach kurzem Kontakt via E-Mail war er bereit, eine Besichtigung des physikalischen Instituts zu ermöglichen. Nach flüchtigem Austausch begann er mit der Führung. Am Fenster der Eingangshalle stehen bereits Modelle von bisherigen Weltraummissionen, welche teils mehrere Jahrzehnte alt sind. An der Wand hängen Bilder von Teleskopen und in der Luft liegt der Geruch von alten Büchern und Erfindergeist. Im Gang sind weitere Instrumente der Universität Bern ausgestellt. Diese werden in den Laboren und den Werkhöfen angefertigt. Jede Entwicklung eines dieser Instrumente beansprucht viel Zeit und grossen Aufwand.
 Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert. Die Geschichte der Raumforschung der Universität Bern beginnt schon früh: im Jahre 1969 mit der Apollo 11 Mission. Nach dem Betreten des Mondes durch Neil Armstrong stellte der zweite Astronaut, Buzz Aldrin, noch vor der amerikanischen Flagge das Berner Sonnenwindsegel auf. So erzählt Linus die stolze Geschichte der Berner Raumfahrt.
 
-![Ausgestelltes Sonnenwindsegel (Nachbau) ©️ Mike Flückiger](microsoftteams-image-2-.png)
+![Ausgestelltes Sonnenwindsegel (Nachbau) ©️ Mike Flückiger](microsoftteams-image-2-1-.png)
 
 #### CHEOPS
 
@@ -35,11 +35,10 @@ Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgr
 Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
 Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht. 
 
-
-
 ![Modell des NIM ©️Mike Flückiger](microsoftteams-image.png)
 
 {{<box>}}
+
 ##### Die CLPS-Mission
 
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
