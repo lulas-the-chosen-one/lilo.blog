@@ -17,8 +17,6 @@ Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert.
 
 ![Ausgestelltes Sonnenwindsegel (Nachbau) ©️ Mike Flückiger](microsoftteams-image-2-.png)
 
-
-
 #### CHEOPS
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
@@ -37,14 +35,11 @@ Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgr
 Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
 Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht. 
 
-{{<box>}}
-
 
 
 ![Modell des NIM ©️Mike Flückiger](microsoftteams-image.png)
 
-
-
+{{<box>}}
 ##### Die CLPS-Mission
 
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
@@ -63,8 +58,6 @@ Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, w
 
 ![Ausstellung von Bildern des Mondes in der Universität Bern ©️ Lukas Müller](microsoftteams-image-1-.png)
 
-
-
 #### Hoffnung auf Leben
 
 Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausfordernde Mission. Dabei braucht ein Planet bestimmte Eigenschaften, um dieses Leben, wenn auch nur einzellig, zu versorgen. Diese Eigenschaften sind sehr selten und wenn sie existieren, nicht zwingend für den Menschen geeignet. Zu der Frage, ob es ein zweites Zuhause für die Menschen geben könnte, antwortet Peter Wurz, wie bereits erwartet, mit Folgendem: *«Ein zweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensystem, weil die Erde tatsächlich bei vielen Faktoren mit weit grossem Abstand das Beste ist, was wir haben können.»* Und ausserhalb unseres Sonnensystems ist ein Zuhause noch weniger denkbar, da die Distanzen, welche überwunden werden müssten, viel zu gross sind. 
@@ -82,8 +75,6 @@ Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation 
 Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der Finanzierung beteiligen sich gemäss Linus verschiedene Geldgeber. Meistens werde die Arbeit von der NASA oder ESA, sowie dem Schweizerischen Nationalfonds SNF und dem Bund finanziert. Jedoch seien nicht alle Kosten damit gedeckt und die Universität müsse zum Beispiel die Löhne der Angestellten bezahlen. Nicht nur aus der Sicht der Universität Bern ist die Weltraumforschung wichtig, auch der SNF findet diese einer der wichtigsten Fortschritte in der modernen Wissenschaft. Die Beteiligung in der Weltraumforschung stützt, gemäss dem SNF, die lokale Wirtschaft, schafft Arbeitsplätze und fördert die Wettbewerbsfähigkeit. Zudem diene die Weltraumforschung nicht nur der Wissenschaft, sondern unterstütze auch Bedürfnisse im Alltag, etwa durch Satellitenkommunikation und Wettervorhersagen oder die Navigation durch Satelliten. Der SNF unterstützt Projekte der Universität hauptsächlich durch den MARVIS-Fonds, welcher gegründet wurde, um genau solche Projekte finanziell zu fördern.
 
 Die Raumfahrt wird uns und zukünftige Generationen weiter begleiten. Solange der Erfindergeist und die Begeisterung des Menschen für den Weltraum bestehen, werden auch weitere Erfolge erzielt werden. Die Beteiligung der Schweiz an der Raumfahrt ist auch schon für die Zukunft gesichert. Mit der Unterschrift von Guy Parmelin unter das Artemis-Abkommen verpflichtet sich die Schweiz mit 35 anderen Staaten an der friedlichen Erforschung des Weltraums. Somit wird die Arbeit des physikalischen Instituts auch in Zukunft relevant sein. Wie auch Peter Wurz erwähnte, ist die Weltraumforschung nicht unmittelbar wichtig für das alltägliche Leben, jedoch ist sie ein riesiger Entwicklungsschritt für den Menschen und sie hat eine grosse philosophische Bedeutung. Man kann also gespannt sein, was die Zukunft für Überraschungen bringen wird.
-
-
 
 - - -
 
