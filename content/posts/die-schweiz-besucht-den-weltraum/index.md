@@ -9,7 +9,9 @@ pinned = true
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
 {{</lead>}}
+
 Die Schweiz als eher kleines Land hat eine wichtige Rolle in der internationalen Weltraumforschung. Mit verschiedenen Messinstrumenten beteiligt sich die Universität Bern öfters an Projekten der NASA oder ESA. Durch diese Projekte wird Neues entdeckt und werden neue Grenzen erforscht.
+
 {{</lead>}}
 
 An einem warmen Nachmittag im Februar 2024 nach einer ruhigen Busfahrt werden wir freundlich von Linus Stöckli in der Eingangshalle des physikalischen Instituts der Universität Bern begrüsst. Linus Stöckli selbst ist Doktorand und arbeitet seit längerem am Institut. Mit seinen Projekten beteiligt er sich auch an der Raumfahrtforschung. Schon nach kurzem Kontakt via E-Mail war er bereit, eine Besichtigung des physikalischen Instituts zu ermöglichen. Nach flüchtigem Austausch begann er mit der Führung. Am Fenster der Eingangshalle stehen bereits Modelle von bisherigen Weltraummissionen, welche teils mehrere Jahrzehnte alt sind. An der Wand hängen Bilder von Teleskopen und in der Luft liegt der Geruch von alten Büchern und Erfindergeist. Im Gang sind weitere Instrumente der Universität Bern ausgestellt. Diese werden in den Laboren und den Werkhöfen angefertigt. Jede Entwicklung eines dieser Instrumente beansprucht viel Zeit und grossen Aufwand.
@@ -19,7 +21,7 @@ Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert.
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
 
-{{<box>}}
+`{{</*box*/>}}`
 
 ##### Das Juice-Projekt
 
@@ -27,7 +29,7 @@ Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente,
 Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgreichen Start einer Mission feiern.
 (JUICE = Jupiter Icy Moons Explorer)
 
-{{<box>}}
+`{{</*box*/>}}`
 
 #### JUICE
 
