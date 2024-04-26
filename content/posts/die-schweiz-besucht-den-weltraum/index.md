@@ -19,7 +19,7 @@ Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert.
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
 
-`{{</*box*/>}}`
+
 
 ##### Das Juice-Projekt
 
@@ -27,7 +27,15 @@ Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente,
 Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgreichen Start einer Mission feiern.
 (JUICE = Jupiter Icy Moons Explorer)
 
-`{{</*box*/>}}`
+
+{{<box>}}
+##### Das Juice-Projekt
+
+Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
+Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgreichen Start einer Mission feiern.
+(JUICE = Jupiter Icy Moons Explorer)
+{{</box>}}
+
 
 #### JUICE
 
