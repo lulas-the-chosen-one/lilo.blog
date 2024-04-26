@@ -59,6 +59,9 @@ Ausstellung von Bildern des Mondes in der Universität Bern ©️ Lukas Müller
 Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausfordernde Mission. Dabei braucht ein Planet bestimmte Eigenschaften, um dieses Leben, wenn auch nur einzellig, zu versorgen. Diese Eigenschaften sind sehr selten und wenn sie existieren, nicht zwingend für den Menschen geeignet. Zu der Frage, ob es ein zweites Zuhause für die Menschen geben könnte, antwortet Peter Wurz, wie bereits erwartet, mit Folgendem: *«Ein zweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensystem, weil die Erde tatsächlich bei vielen Faktoren mit weit grossem Abstand das Beste ist, was wir haben können.»* Und ausserhalb unseres Sonnensystems ist ein Zuhause noch weniger denkbar, da die Distanzen, welche überwunden werden müssten, viel zu gross sind. 
 Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: *„Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“*
 
+
+
+
 {{<box>}}
 ##### Schweizerische Nationalfonds
 
