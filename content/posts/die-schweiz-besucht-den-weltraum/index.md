@@ -64,9 +64,9 @@ Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von se
 
 {{<box>}}
 
-##### Schweizerische Nationalfonds
+##### Schweizerischer Nationalfonds
 
-Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument PRODEX, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
+Der Schweizerischer Nationalfonds (SNF) ist eine unabhängige Organisation. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument PRODEX, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
 {{</box>}}
 
 #### Finanzierung
